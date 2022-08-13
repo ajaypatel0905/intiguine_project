@@ -1,5 +1,5 @@
 # intiguine_project
 
 
-# install all the dependencies through 'npm install' command
-#run application by 'npm start' command
+install all the dependencies through 'npm install' command
+run application by 'npm start' command
